@@ -1,11 +1,13 @@
 # soul-music
 A music player/downloader client 
 
-This is a small client musicplayer that I created because I got bored. It's coded in Python. 
+This is a small side project of mine, which is a 
+client musicplayer that I created. It's implemented in Python. 
 
-## Depencies 
+## Dependancies  
 - vlc-python
-- ncurses 
+- youtube_dl
+- cursesmenu
 
 
 ## Demo 
